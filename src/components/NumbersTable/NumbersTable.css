@@ -1,0 +1,19 @@
+.Grid{
+    display: flex;
+}
+
+.divNumber{
+    background-color: #fff;
+    color: #000;
+    border: 1px solid;
+    width: 500px;
+    height: 150px;
+}
+
+.red{
+    background-color: red;
+}
+
+.white{
+    background-color: white;
+}

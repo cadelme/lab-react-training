@@ -1,0 +1,6 @@
+.Carousel{
+    width: 200px;
+    height: 140px;
+    overflow: hidden;
+    display: flex;
+}

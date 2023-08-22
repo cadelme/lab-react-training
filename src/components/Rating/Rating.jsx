@@ -2,8 +2,6 @@ import './Rating.css'
 
 const Rating = ({children}) => {
 
-    console.log(children)
-
 let star = Math.round(Number(children))
 
 switch (star) {
