@@ -1,0 +1,27 @@
+.RectDriver{
+    background-color: blue;
+    border-radius: 20px;
+    color: #fff;
+    display: flex;
+}
+
+.ImageDriven img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.ImageDriven{
+    width: 50%;
+    text-align: end;
+}
+.Details{
+    width: 50%;
+    text-align: left;
+    margin-left: 10px;
+
+}
+.Name{
+    font-weight: bold;
+    font-size: 25px;
+}

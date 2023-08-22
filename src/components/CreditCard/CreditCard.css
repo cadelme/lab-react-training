@@ -1,0 +1,48 @@
+.Cards{
+    display:flex;
+  
+     
+}
+
+.MasterCard, .Visa{
+   
+    border-radius: 20px;
+    margin-right: 10px;
+    height: 200px;
+    width: 35%;
+}
+
+.Visa .Logo img{
+    text-align: end;
+    width: 20%;
+}
+
+.MasterCard .Logo img{
+
+    text-align: end;
+}
+
+.Logo{
+    text-align: end;
+    margin: 10px;
+}
+.Number{
+    text-align: center;
+    font-size: 30px;
+}
+
+.Expires{
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 5px;
+}
+.Expires span{
+    
+    margin-left: 20px;
+}
+
+.Owner{
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 5px;
+}
